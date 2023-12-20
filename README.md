@@ -2,8 +2,8 @@
 
 About me:
 
-- 🔭 Currently started working as Full Stack Developer and learning Vue js. Before I was working as Scala Backend Developer for HR cloud solution in Finland with mainly Scala, SQL, AWS, Docker, Scrum, Git, Kibana and Jenkins.
-- 🌱 Also currently studying for a degree in Information Technology that includes web development in Java, UI design with Figma, operating systems, databases, cloud operations, software robotics, business and innovation.
+- 🔭 Currently started working as Full Stack Developer, learning and using Vue js and TypeScript. Before I was working as Scala Backend Developer for HR cloud solution in Finland with mainly Scala, SQL, AWS, Docker, Scrum, Git, Kibana and Jenkins.
+- 🌱 Also currently studying for a degree in Information Technology that includes programming in Java, web development using JavaScript, HTML, CSS and PHP, UI design with Figma, web accessibility, operating systems, databases, cloud operations, software robotics, business and innovation.
 - ⚡ Previous studies: I passed AW Academy bootcamp in JavaScript class in 2020 where I studied JavaScript, TypeScript, React, Angular, Vue, Node js, SQL, MongoDB, AWS and lots of more. I have also passed Full Stack Open MOOC 2020 at Helsinki University and have Scrum Master Certificate.
 
 <!--
